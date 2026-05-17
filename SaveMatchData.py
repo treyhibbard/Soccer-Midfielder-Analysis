@@ -1,7 +1,7 @@
 import json
 import os
 from skillcorner.client import SkillcornerClient
-client = SkillcornerClient(username='jes0153@auburn.edu', password='WarEagle1')
+client = SkillcornerClient(username='###', password='###')
 print("START")
 
 '''
