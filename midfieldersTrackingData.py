@@ -1,7 +1,7 @@
 import json
 import os
 from skillcorner.client import SkillcornerClient
-client = SkillcornerClient(username='jes0153@auburn.edu', password='WarEagle1')
+client = SkillcornerClient(username='###', password='###')
 
 # Define the folder containing all match and tracking data files
 data_folder = "/Users/treyhibbard/Downloads/DATAPROJECT"
